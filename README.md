@@ -10,3 +10,6 @@ This is a practice repository for learning Git.
 
 This file was edited online.
 
+
+## Project Status
+Successfully pushed to GitHub!
