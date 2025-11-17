@@ -22,3 +22,4 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 
+# This is a comment
