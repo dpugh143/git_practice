@@ -19,12 +19,6 @@ def divide(a, b):
         return "Error: Cannot divide by zero"
     return a / b
 
-<<<<<<< HEAD
-def divide(a, b):
-    if b == 0:
-        return "Error: Cannot divide by zero"
-    return a / b
-=======
 def power(a, b):
     return a ** b
->>>>>>> 3b8d24817a43cb1db15770553e14224486abf484
+
