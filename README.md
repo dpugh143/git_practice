@@ -9,8 +9,6 @@ This is a practice repository for learning Git.
 
 ## This in line 5.
 
-### This one too.
-
 
 This file was edited online.
 
@@ -19,4 +17,9 @@ This file was edited online.
 ## Project Status
 
 Successfully pushed to GitHub!
+
+
+## Development Environment
+- Using Visual Studio Code for Git integration
+- VS Code provides a visual interface for Git operations
 
