@@ -1,2 +1,2 @@
-print("Hello, Git!")
-print("Hello again, Git!")
+print("Greetings from GitHub!")
+print("This version was edited on the web")
