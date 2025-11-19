@@ -23,3 +23,6 @@ Successfully pushed to GitHub!
 - Using Visual Studio Code for Git integration
 - VS Code provides a visual interface for Git operations
 
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
